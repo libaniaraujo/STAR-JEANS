@@ -6,7 +6,7 @@
 ## 1. Resumo:
 
 - <b>Código no Jupyter Notebook</b>
-- <b>Dashboard no Tableau</b>
+- [<b>Dashboard no Tableau</b>](https://public.tableau.com/app/profile/libania.araujo.silva/viz/Star-Jeans/Painel1?publish=yes)
 
 ## 2. Contexto:
 
@@ -85,6 +85,8 @@ Em relação a matéria-prima, as calças jeans masculinas do conjunto de dados 
 Logo, algodão e poliéster são as matérias-primas centrais para a produção das calças jeans masculinas pela nova empresa.
 
 ## 7. Produto final (dashboard):
+
+<img src = "https://user-images.githubusercontent.com/94937578/178542035-6372600a-2dd6-48ba-a3c7-6ab7acf3acb9.png" width="1000px" />
 
 ## 8. Referências:
 
