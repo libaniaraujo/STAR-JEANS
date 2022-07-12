@@ -22,10 +22,10 @@ Assim, os dois sócios contrataram uma consultoria de ciência de dados para res
 
 ## 4. Planejamento da solução:
 
-- Obter os dados relativos às vendas de calças jeans masculinas da H&M via webscrapping.
-- Limpar e descrever os dados.
-- Realizar a análise exploratória dos dados, buscando responder os problemas de negócio.
-- Apresentar os resultados em um dashboard no Tableau.
+- <b> Passo 1:</b> Coletar os dados relativos às vendas de calças jeans masculinas da H&M via webscrapping.
+- <b> Passo 2:</b> Limpar e descrever os dados.
+- <b> Passo 3:</b> Realizar a análise exploratória dos dados, buscando responder os problemas de negócio.
+- <b> Passo 4:</b> Apresentar os resultados em um dashboard no Tableau.
 
 ## 5. Dados:
 
