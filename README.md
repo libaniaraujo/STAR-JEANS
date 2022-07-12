@@ -5,7 +5,7 @@
 
 ## 1. Resumo:
 
-- <b>Código no Jupyter Notebook</b>
+- [<b>Código no Jupyter Notebook</b>](https://github.com/libaniaraujo/STAR-JEANS/blob/main/Notebook/Star-Jeans.ipynb)
 - [<b>Dashboard no Tableau</b>](https://public.tableau.com/app/profile/libania.araujo.silva/viz/Star-Jeans/Painel1?publish=yes)
 
 ## 2. Contexto:
